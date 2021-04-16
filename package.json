@@ -1,0 +1,18 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "npm pakages",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "karimdeveloper12@gmail.com"
+  },
+  "author": "Sher Kairm",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
